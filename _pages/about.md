@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [School of Biology](https://sls.westlake.edu.cn/About/Overview/), [Westlake University](https://westlake.edu.cn/). My research interest includes epigenetics in cancer.
+I'm a third year graduate student from <a href="https://sls.westlake.edu.cn/About/Overview/" target="_blank" rel="noopener noreferrer">School of Biology</a>, <a href="https://westlake.edu.cn/" target="_blank" rel="noopener noreferrer">Westlake University</a>. My research interest includes epigenetics in cancer.
 
-I am very fortunate to be advised by [Prof. Yanxiao ZHANG](https://www.westlake.edu.cn/faculty/yanxiao-zhang.html) of [Computational and Fuctional Genomics Lab](https://zhangyxlab.github.io/) from [Westlake University](https://westlake.edu.cn/).
+I am very fortunate to be advised by <a href="https://www.westlake.edu.cn/faculty/yanxiao-zhang.html" target="_blank" rel="noopener noreferrer">Prof. Yanxiao ZHANG</a> of <a href="https://zhangyxlab.github.io/" target="_blank" rel="noopener noreferrer">Computational and Functional Genomics Lab</a> from <a href="https://westlake.edu.cn/" target="_blank" rel="noopener noreferrer">Westlake University</a>.
 
 Accompanied by a cat named "Todo(土豆)"
 
 On spare time, I am a lover of photography and rock music.
 
-You can find my CV here: [Liwen's Curriculum Vitae](../files/Liwen_Zhang_CV.pdf).
+You can find my CV here: <a href="../files/Liwen_Zhang_CV.pdf" target="_blank" rel="noopener noreferrer">Liwen's Curriculum Vitae</a>.
 
 
