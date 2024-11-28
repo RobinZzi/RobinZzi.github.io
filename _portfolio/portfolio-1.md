@@ -5,6 +5,8 @@ collection: portfolio
 ---
 
 
-[@Westlake-University](https://maps.app.goo.gl/J5mzSHBUboh6Sqnd7)
+
+<a href="https://maps.app.goo.gl/J5mzSHBUboh6Sqnd7"  target="_blank" rel="noopener noreferrer" >@Westlake-University</a>
+
 
 <img src='/images/12041658994735.png'>
