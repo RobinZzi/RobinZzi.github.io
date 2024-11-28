@@ -25,7 +25,7 @@ Work experience
 * Sep. 2018 - Dec.2020:  Part-time Video Director
 * Shanghai Guancha Information Technology
 * Duties includes: writing, filming and editing
-* Main Works: Yuan's Multiverse Series on [bilibili](https://space.bilibili.com/419501714) and [youtube](https://www.youtube.com/@TechSignal2023)
+* Main Works: Yuan's Multiverse Series（《科技袁人》& 《科技袁周虑》） on [bilibili](https://space.bilibili.com/419501714) and [youtube](https://www.youtube.com/@TechSignal2023)
   
 Skills
 ======
