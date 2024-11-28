@@ -12,8 +12,8 @@ title                    : "Robin's Page"
 title_separator          : "-"
 name                     : &name "Liwen Zhang"
 description              : &description "personal description"
-url                      : "https://https://robinzzi.github.io/"
-baseurl                  : "https://https://robinzzi.github.io/"
+url                      : https://https://robinzzi.github.io/
+baseurl                  : 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
