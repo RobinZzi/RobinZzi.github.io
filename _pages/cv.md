@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1f58e0ac-ab3f-44d9-a968-27abf1b74fd0)![image](https://github.com/user-attachments/assets/8b01eb13-b4dc-4dbb-bcbb-4b75d06842a5)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -12,53 +12,31 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in biology, Westlake University, 2024(expected)
+* B.S. in biology, University of Science and Technology of China, 2020
+
+Research Experience
+======
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2018 - Dec.2020: •	Part-time Video Director
+  * Shanghai Guancha Information Technology
+  * Duties includes: writing, filming and editing
+  * •	Main Works: Yuan's Multiverse Series on [bilibili](https://space.bilibili.com/419501714) and [youtube](https://www.youtube.com/@TechSignal2023)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimental skills: Molecular cloning,  Mouse housekeeping, Cell culture and passage
+* Programming and Software: R, Python, Mathematica, Origin, Markdown, WordPress, Adobe Premiere Pro
+* Performance Agent Qualification Certificate（Verified by the Ministry of Culture and Tourism of the People's Republic of China）
+* C1 Driver License（Verified by the Ministry of Transport of the People's Republic of China）
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
