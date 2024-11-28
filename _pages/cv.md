@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1f58e0ac-ab3f-44d9-a968-27abf1b74fd0)![image](https://github.com/user-attachments/assets/8b01eb13-b4dc-4dbb-bcbb-4b75d06842a5)---
 layout: archive
 title: "CV"
 permalink: /cv/
