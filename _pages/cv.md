@@ -18,6 +18,31 @@ Education
 
 Research Experience
 ======
+## Genomics & Bioinformatics  
+**Westlake University**  
+**Advisor:** Prof. Yanxiao Zhang  
+*Lab of Computational and Functional Genomics*  
+*Jan. 2022 - Present*  
+- Performed integrated analysis of transposon expression level, DNA methylation level, and mutation information for each tumor type in the TCGA data.  
+- Worked on multi-omics (scRNA + scWGBS) data from a set of HCC patients, identified certain hypo-methylation area regions in certain unique patient lesions, validated two potential DNA methylation regulators in HCC.  
+
+## Immunity & Bioinformatics  
+**USTC**  
+**Advisor:** Prof. Wen Pan  
+*Lab of Tumor Regulation and Epigenetics*  
+*June 2019 - Dec. 2021*  
+- Found a new N1-histidine methylation and its interactant, confirmed its function in tumor growth.  
+- Confirmed the location of a kind of neurotransmitter receptor in the gut.  
+- Collected bladder cancer samples from the affiliated hospital of USTC for single-cell RNA-seq.  
+- Responsible for bioinformatics consulting and analysis for other lab members.  
+
+## Synthetic Biology  
+**Team-USTC, iGEM - International Genetically Engineering Machine Competition (2017, 2018)**  
+**Advisor:** Prof. Haiyan Liu  
+*Nov. 2016 - Nov. 2019*  
+- Proposed building a photo-electro-bio universal reduction reaction catalysis system in *E. coli* (2017).  
+- Proposed modifying-allowed-protein decorated bacterial cellulose for multi-functional air filters and in-situ grown ultrathin bacterial cellulose decorated with cellulose-binding domain linking targeting protein produced by *E. coli* (2018).  
+- Presented our results at the international Jamboree in Boston.
 
 
 Work experience
