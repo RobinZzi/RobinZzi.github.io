@@ -13,10 +13,10 @@ locale                   : "en-US"
 title                    : "Robin's Page"
 title_separator          : "-"
 name                     : &name "Liwen Zhang"
-description              : &description "personal description"
+description              : &description "Science content director and video producer with a background in genomics and bioinformatics"
 url                      : https://robinzzi.github.io
 baseurl                  : 
-repository               : "RobinZzi/RobinZzi.github.io"
+repository               : "robinzzi/robinzzi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Liwen (Robin) ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Take your time"
-  location         : "Hangzhou,China"
-  employer         : "Westlake University"
+  bio              : "Science content director & video producer · M.S. in genomics & bioinformatics"
+  location         : "Shanghai, China"
+  employer         : "Aoying (Shanghai) Culture Media"
   uri              : # URL
   email            : "zhangliwen@westlake.edu.cn" 
 
