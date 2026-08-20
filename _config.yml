@@ -16,7 +16,7 @@ name                     : &name "Liwen Zhang"
 description              : &description "Science content director and video producer with a background in genomics and bioinformatics"
 url                      : https://robinzzi.github.io
 baseurl                  : 
-repository               : "robinzzi/robinzzi.github.io"
+repository               : "RobinZzi/RobinZzi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
