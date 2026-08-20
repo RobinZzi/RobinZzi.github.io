@@ -65,7 +65,7 @@ Work Experience
 ## Part-time Video Director
 **Shanghai Guancha Information Technology Co., Ltd.**  
 *Sep. 2018 – Dec. 2020*  
-- Writing, filming and editing for the《科技袁人》(Tech Yuan) series.
+- Writing, filming and editing for the《科技袁人》(Yuan's Multiverse) series.
 - The series surpassed 50 million views and 5 million followers across platforms.
 
 Selected Projects
@@ -103,7 +103,7 @@ Selected Projects
 - Managed the full event pipeline: venue negotiation, artist booking and scheduling, ticketing and merchandise, on-site execution.
 - Built a standardized event SOP; coordinated visas, reception and stage technology for foreign artists.
 
-## "Tech Yuan" (《科技袁人》) science series — Part-time Director / Full-process Production (Sep. 2018 – Dec. 2020)
+## "Yuan's Multiverse" (《科技袁人》) science series — Part-time Director / Full-process Production (Sep. 2018 – Dec. 2020)
 - Independently handled topic selection, scriptwriting, shooting, editing and packaging on a weekly cadence.
 - Iterated content based on science trends and audience data, creating multiple million-view videos.
 
