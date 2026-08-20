@@ -13,6 +13,6 @@ I received my M.S. in Biology from <a href="https://en.westlake.edu.cn/" target=
 
 Today I work as a science content director and executive producer at Aoying (Shanghai) Culture Media, directing science documentaries, brand films and live productions — including the Bilibili series《魔都科学目录》, the Midea × Xuelong brand film, and Shanghai's "Director Talks Policy" series. I previously helped build the science IP 《科技袁人》(Tech Yuan), which surpassed 50 million views and 5 million followers across platforms. As the founder of the WarudoKaosu studio, I also organize live events (WRDK / IdolKingdom), serving over 10,000 attendees.
 
-Accompanied by a cat named "Todo" (土豆). In my spare time, I love photography and rock music.
+Accompanied by a cat named "Todo" (土豆). In my spare time, I love photography, rock music and football.
 
-You can find my CV here: <a href="../files/Liwen_Zhang_CV.pdf" target="_blank" rel="noopener noreferrer">Liwen's Curriculum Vitae</a>.
+You can find my CV here: <a href="https://robinzzi.github.io/files/Liwen_Zhang_CV.pdf" target="_blank" rel="noopener noreferrer">Liwen's Curriculum Vitae</a>.
